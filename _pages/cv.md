@@ -17,11 +17,7 @@ Dual-degree Program:
 
 Work experience
 ======
-* Research Assistant 
-<style>
-{text-align: right}
-</style>
-Octorber 2020 - present
+* Research Assistant {: style="text-align: right" }Octorber 2020 - present
   * Institute Of Computing Technology, Chinese Acedemic Of Sciences
   * Duties included: 
     * Research on machine learning methods related to intelligent medical treatment
@@ -30,7 +26,7 @@ Octorber 2020 - present
     * Complete the invention patent or software copyright
   * Supervisor: Professor Chen
 
-* Web Developer Intern, <div style="text-align: right">July 2020 - Octorber 2020</div>
+* Web Developer Intern, {: style="text-align: right" }July 2020 - Octorber 2020
   * CloudBrain, Xiamen
   * Duties included: 
     * Web Back-end developing
