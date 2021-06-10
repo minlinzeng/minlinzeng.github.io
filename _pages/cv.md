@@ -11,29 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Huaqiao University, 2016-2021 (Dual-degree Program)
-* B.S. in Computer Science, George Mason University, 2017-2020 (Dual-degree Program)
+Dual-degree Program:
+  * B.S. in Computer Science, Huaqiao University, 2016-2021 
+  * B.S. in Computer Science, George Mason University, 2017-2020 
 
 Work experience
 ======
-* Research Assistant, Octorber 2020 - present
+* Research Assistant <div style="text-align: right">Octorber 2020 - present</div>
   * Institute Of Computing Technology, Chinese Acedemic Of Sciences
-  * Duties included: Tagging issues
+  * Duties included: 
+    * Research on machine learning methods related to intelligent medical treatment
+    * Develop the front-end medical data acquisition system
+    * Publish research papers in domestic and foreign academic journals
+    * Complete the invention patent or software copyright
   * Supervisor: Professor Chen
 
-* Front-end Web Developing Intern, July 2020 - Octorber 2020
+* Web Developer Intern, <div style="text-align: right">July 2020 - Octorber 2020</div>
   * CloudBrain, Xiamen
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: 
+    * Web Back-end developing
+    * Cooperate with Xiamen Bank to analyze data and build models
+  * Supervisor: Zhengsheng, Lai 
  
-* Teaching Assistant, September 2019 - May 2020
+* Teaching Assistant <div style="text-align: right">September 2019 - May 2020</div>
   * George Mason University
-  * Duties included: Assist professor with the class, Holding office hours, Statistical work, Invigilation
+  * Duties included: 
+    * Assist professor with the class
+    * Holding office hours
+    * Statistical work
+    * Invigilation
   * Supervisor: Professor Russell
 
-* Peer Mentor, Spetember 2019 - May 2020
+* Peer Mentor <div style="text-align: right">Spetember 2019 - May 2020</div>
   * George Mason University
-  * Duties included: Tutoring students with subjects includes CS, Math, Physics, Statistics
+  * Duties included: 
+    * Tutoring students with subjects includes CS, Math, Physics, Statistics
   * Supervisor: Associate Dean, Sharon A Caraballo 
 
 Skills
