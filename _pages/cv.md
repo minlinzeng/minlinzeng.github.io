@@ -17,7 +17,7 @@ Dual-degree Program:
 
 Work experience
 ======
-* Research Assistant <div style="text-align: right">Octorber 2020 - present</div>
+* Research Assistant <style>Octorber 2020 - present{text-align: right}</style>
   * Institute Of Computing Technology, Chinese Acedemic Of Sciences
   * Duties included: 
     * Research on machine learning methods related to intelligent medical treatment
