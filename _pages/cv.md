@@ -11,22 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Huaqiao University, 2016-2021 (Dual-degree Program)
+* B.S. in Computer Science, George Mason University, 2017-2020 (Dual-degree Program)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Research Assistant, Octorber 2020 - present
+  * Institute Of Computing Technology, Chinese Acedemic Of Sciences
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Chen
 
-* Fall 2015: Research Assistant
-  * Github University
+* Front-end Web Developing Intern, July 2020 - Octorber 2020
+  * CloudBrain, Xiamen
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+ 
+* Teaching Assistant, September 2019 - May 2020
+  * George Mason University
+  * Duties included: Assist professor with the class, Holding office hours, Statistical work, Invigilation
+  * Supervisor: Professor Russell
+
+* Peer Mentor, Spetember 2019 - May 2020
+  * George Mason University
+  * Duties included: Tutoring students with subjects includes CS, Math, Physics, Statistics
+  * Supervisor: Associate Dean, Sharon A Caraballo 
+
 Skills
 ======
 * Skill 1
