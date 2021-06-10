@@ -17,7 +17,7 @@ Dual-degree Program:
 
 Work experience
 ======
-* Research Assistant {: style="text-align: right" }Octorber 2020 - present
+* Research Assistant, Octorber 2020 - present
   * Institute Of Computing Technology, Chinese Acedemic Of Sciences
   * Duties included: 
     * Research on machine learning methods related to intelligent medical treatment
@@ -26,14 +26,14 @@ Work experience
     * Complete the invention patent or software copyright
   * Supervisor: Professor Chen
 
-* Web Developer Intern, {: style="text-align: right" }July 2020 - Octorber 2020
+* Web Developer Intern, July 2020 - Octorber 2020
   * CloudBrain, Xiamen
   * Duties included: 
     * Web Back-end developing
     * Cooperate with Xiamen Bank to analyze data and build models
   * Supervisor: Zhengsheng, Lai 
  
-* Teaching Assistant <div style="text-align: right">September 2019 - May 2020</div>
+* Teaching Assistant, September 2019 - May 2020
   * George Mason University
   * Duties included: 
     * Assist professor with the class
@@ -42,7 +42,7 @@ Work experience
     * Invigilation
   * Supervisor: Professor Russell
 
-* Peer Mentor <div style="text-align: right">Spetember 2019 - May 2020</div>
+* Peer Mentor, Spetember 2019 - May 2020
   * George Mason University
   * Duties included: 
     * Tutoring students with subjects includes CS, Math, Physics, Statistics
