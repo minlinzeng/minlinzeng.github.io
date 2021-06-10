@@ -83,7 +83,7 @@ author:
   name             : "MINLIN ZENG"
   avatar           : "Minlin Zeng.jpg"
   bio              : "Some bio"
-  location         : "https://goo.gl/maps/syrRSQHL9JaY5k5RA"
+  location         : <a href="https://goo.gl/maps/syrRSQHL9JaY5k5RA"></a>
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "https://weibo.com/u/2802857504"
+  weibo            : "https://weibo.com/u/2802857504?ssl_rnd=1623303548.812"
   xing             :
   youtube          :
   wikipedia        :
