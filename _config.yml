@@ -11,7 +11,7 @@ title                    : "Minlin Zeng's Blog"
 title_separator          : "-"
 name                     : &name "Minlin Zeng"
 description              : &description "personal description"
-url                      : https://minlinzeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minlinzeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "MINLIN ZENG"
   avatar           : "Minlin Zeng.jpg"
   bio              : "Some bio"
-  location         : "NULL"
+  location         : [Location](https://www.google.com/maps/search/No.6,+South+Road,+Zhongguancun+Science+Institute,+Haidian+District,+Beijing+City/@39.9390731,116.1172722,10z/data=!3m1!4b1)
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
