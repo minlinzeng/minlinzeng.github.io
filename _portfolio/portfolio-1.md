@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Whale of A Time"
+excerpt: "Created for 2018 Charity Game Jam in 24 hrs<br/><img src='/images/A Whale of A Time.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This game was created at a game jam for the charity purpose.
+
+I was one of the game's programmers, and my primary responsibility was to create the UI system using Unity.
+
+For more infomation about this game, please visit this [site](https://dpandaheart.itch.io/whale-of-a-time).
