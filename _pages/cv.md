@@ -92,3 +92,10 @@ Honors
 * Dean's List, George Mason University, Summer 2019
 * Dean's List, George Mason University, Fall 2019
 * The second place in the campus hackathon GDIT image classification group
+
+Extracurricular Activities
+======
+* Game Analysis and Design Interest Group
+  * Member
+    * Game develoment with Unity (weekly meeting)
+    * Charity Events (Game Jam)
