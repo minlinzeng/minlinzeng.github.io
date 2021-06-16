@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-China 121 Dual-degree Program 
-[Go to the Support Web Site](https://support.west-wind.com)
+[China 121 Dual-degree Program](https://www2.gmu.edu/admissions-aid/office-international-enrollment-partnerships/china-121)
   * B.S. in Computer Science, Huaqiao University, 2016-2021 
   * B.S. in Computer Science, George Mason University, 2017-2020 
 
