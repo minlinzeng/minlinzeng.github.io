@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Dual-degree Program:
+China 121 Dual-degree Program <ul>{% https://www2.gmu.edu/admissions-aid/office-international-enrollment-partnerships/china-121 %}</ul>:
   * B.S. in Computer Science, Huaqiao University, 2016-2021 
   * B.S. in Computer Science, George Mason University, 2017-2020 
 
