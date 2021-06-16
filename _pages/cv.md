@@ -81,3 +81,14 @@ Teaching
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+Honors
+======
+* Scholarship of College of Computer Science and Technology, Huaqiao University, Semester 2016-2017
+* Dean's List, George Mason University, Spring 2018
+* Dean's List, George Mason University, Summer 2018
+* Dean's List, George Mason University, Fall 2018
+* Dean's List, George Mason University, Spring 2019
+* Dean's List, George Mason University, Summer 2019
+* Dean's List, George Mason University, Fall 2019
+* The second place in the campus hackathon GDIT image classification group
