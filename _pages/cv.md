@@ -100,5 +100,6 @@ Extracurricular Activities
     * Game develoment with Unity (weekly meeting)
     * Charity Events (Game Jam)
 
-
-                                                                                                      <a href="../files/Resume.pdf" download>Click to Download</a>
+  <p style="text-align:center;">
+    <a href="../files/Resume.pdf" download>Click to Download</a>
+  </p>
