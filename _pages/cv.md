@@ -84,7 +84,10 @@ Teaching
 
 Honors
 ======
-* Scholarship of College of Computer Science and Technology, Huaqiao University <p style="text-align:right;">Semester 2016-2017</p>
+<div>
+* Scholarship of College of Computer Science and Technology, Huaqiao University 
+  <p style="text-align:right;">Semester 2016-2017</p>
+</div>
 * Dean's List, George Mason University, Spring 2018
 * Dean's List, George Mason University, Summer 2018
 * Dean's List, George Mason University, Fall 2018
