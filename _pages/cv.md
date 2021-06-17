@@ -85,9 +85,11 @@ Teaching
 Honors
 ======
 <div>
+  <hr>
 * Scholarship of College of Computer Science and Technology, Huaqiao University 
   <p style="text-align:right;">Semester 2016-2017</p>
-</div>
+  </hr>
+
 * Dean's List, George Mason University, Spring 2018
 * Dean's List, George Mason University, Summer 2018
 * Dean's List, George Mason University, Fall 2018
@@ -95,6 +97,7 @@ Honors
 * Dean's List, George Mason University, Summer 2019
 * Dean's List, George Mason University, Fall 2019
 * The second place in the campus hackathon GDIT image classification group
+</div>
 
 Extracurricular Activities
 ======
