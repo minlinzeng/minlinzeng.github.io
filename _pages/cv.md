@@ -99,3 +99,6 @@ Extracurricular Activities
   * Member
     * Game develoment with Unity (weekly meeting)
     * Charity Events (Game Jam)
+
+
+[Download My CV](Resume.pdf)
