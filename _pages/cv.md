@@ -84,7 +84,7 @@ Teaching
 
 Honors
 ======
-* Scholarship of College of Computer Science and Technology, Huaqiao University, Semester 2016-2017
+* Scholarship of College of Computer Science and Technology, Huaqiao University <p style="text-align:right;">Semester 2016-2017</p>
 * Dean's List, George Mason University, Spring 2018
 * Dean's List, George Mason University, Summer 2018
 * Dean's List, George Mason University, Fall 2018
@@ -100,6 +100,6 @@ Extracurricular Activities
     * Game develoment with Unity (weekly meeting)
     * Charity Events (Game Jam)
 
-  <p style="text-align:center;">
+  <p style="text-align:right;">
     <a href="../files/Resume.pdf" download>Click to Download</a>
   </p>
