@@ -101,4 +101,4 @@ Extracurricular Activities
     * Charity Events (Game Jam)
 
 
-<a href="../files/Resume.pdf" download>Click to Download</a>
+                                                                                                      <a href="../files/Resume.pdf" download>Click to Download</a>
