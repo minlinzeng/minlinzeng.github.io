@@ -101,4 +101,4 @@ Extracurricular Activities
     * Charity Events (Game Jam)
 
 
-[Download My CV](Resume.pdf)
+<a href="../files/Resume.pdf" download>Click to Download</a>
